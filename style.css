@@ -40,3 +40,11 @@ li {
 
   font-size: 20px;
 }
+
+footer p {
+  font-size: 16px;
+}
+
+article eheader p {
+  font-style: italic;
+}
