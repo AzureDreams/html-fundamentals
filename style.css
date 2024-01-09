@@ -3,6 +3,8 @@
   padding: 0;
 }
 
+
+/* Page Sections */
 body {
   color: #444;
   font-family: sans-serif;
@@ -21,7 +23,7 @@ body {
   background-color: #f1efef;
   padding: 20px 40px;
   margin-bottom: 60px;
-  height: 80px;
+
 
 }
 
@@ -46,6 +48,8 @@ aside {
   width: 500px;
 }
 
+
+/* Smaller elements */
 
 h1,
 h2,
@@ -198,3 +202,10 @@ footer p {
   width: 100%;
   height: auto;
 }
+
+nav a:link {
+  /* background-color: orangered;
+  margin: 20px;
+  padding: 20px;
+  display: block;
+} */
