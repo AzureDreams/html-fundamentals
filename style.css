@@ -52,6 +52,8 @@ h2 {
 
 h3 {
   font-size: 30px;
+  margin-bottom: 20px;
+  margin-top: 40px;
 
 }
 
@@ -67,6 +69,12 @@ p {
 
   line-height: 1.5;
   margin-bottom: 15px;
+}
+
+ul,
+ol {
+  margin-left: 50px;
+  margin-bottom: 20px;
 }
 
 li {
